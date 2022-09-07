@@ -1,0 +1,3 @@
+baseURL = 'http://church.webnertia.com/'
+languageCode = 'en-us'
+title = 'Church Demo Site'
