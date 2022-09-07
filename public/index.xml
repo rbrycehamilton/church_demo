@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Church Demo Site</title>
-    <link>http://example.org/</link>
+    <link>http://church.webnertia.com/</link>
     <description>Recent content in Home on Church Demo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Aug 2022 10:26:44 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 10:26:44 -0400</lastBuildDate><atom:link href="http://church.webnertia.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Confirmation</title>
-      <link>http://example.org/confirmation/</link>
+      <link>http://church.webnertia.com/confirmation/</link>
       <pubDate>Wed, 07 Sep 2022 10:47:49 -0400</pubDate>
       
-      <guid>http://example.org/confirmation/</guid>
+      <guid>http://church.webnertia.com/confirmation/</guid>
       <description>Thanks For Reaching OutYou Can Expect To Hear Back From Us Within Two Business Days.We Look Forward To Speaking With You Soon!</description>
     </item>
     
     <item>
       <title>Get Started</title>
-      <link>http://example.org/get_started/</link>
+      <link>http://church.webnertia.com/get_started/</link>
       <pubDate>Tue, 16 Aug 2022 16:39:09 -0400</pubDate>
       
-      <guid>http://example.org/get_started/</guid>
+      <guid>http://church.webnertia.com/get_started/</guid>
       <description>Are you ready?Let&amp;#39;s Build A Site That You&amp;#39;ll LoveAnd Will Attract New VisitorsSend Us A Message Or Book A Call BelowSend Us A MessageSubmit</description>
     </item>
     
